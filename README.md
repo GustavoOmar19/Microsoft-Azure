@@ -61,7 +61,7 @@ Zona que contiene dos o más regiones de Azure.
 
 AZURE MAIN SERVICES
 
-![Uploading images (1).jpg…]()
+![image](https://user-images.githubusercontent.com/87049768/125719020-4d5bb2f0-2765-41ae-b115-c3b2b56c9e94.png)
 
 COMPUTE. Da servicios de cómputo o procesamiento bajo demanda (M.V. APPS Service)
 NETWORK. Servicios que conectan recursos entre sí o al mundo.
@@ -70,6 +70,9 @@ DB.  Guardar registros de información de los usuarios SQL DB, COSMOS DB,
 
 REST OF SERVICES
 BIG DATA. 4 T de almacenamiento, procesamiento de enormes cantidades de registros. 
+
+![images (2)](https://user-images.githubusercontent.com/87049768/125719377-de2f4cd2-5882-477c-956d-78436419ca85.jpg)
+
 IA. 2 tipos: Modelos prefabricados: detectan voz, texto, cara. El otro tipo lo hace. 
 DevOps. Automatización del equipo de desarrollo (Azure, GitHub, Azure Repost).
 ESPACIO AISLADO. Configura la cuenta para que no te cobre los servicios.
