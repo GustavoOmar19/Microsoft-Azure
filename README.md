@@ -7,6 +7,7 @@ Azure
 Servicio de nube de Microsoft que entrega servicios informáticos a través de internet.
 Razón principal de usar Azure
 Alta disponibilidad. Está siempre disponible, si se cae un servidor se puede volver a recuperar dependiendo de la SLA.
+
 ![image](https://user-images.githubusercontent.com/87049768/125715822-b63d14da-2422-4dda-8898-78a2e104ab39.png)
 SLA es el porcentaje de rendimiento y tiempo disponible de los recursos.
 Tolerancia a fallos, Si algún recurso falla, no lo notarás, gracias a los respaldos que tiene Microsoft.
@@ -25,11 +26,13 @@ OpEx.
 Se cobra lo que solamente usaste
 
 Tipos de nubes:
+
 ![tipos-de-nube-informatica-1280x720-1](https://user-images.githubusercontent.com/87049768/125717154-36e0222c-f305-4cd5-825b-be6f6d35f87d.jpg)
 Nube pública. Ofrece servicios a quien sea. Son de un proveedor de terceros.
 Nube privada. Estos recursos son 100% del usuario. igual que la responsabilidad.
 Nube híbrida. Tienes centros de datos y lo conectas a Azure. Para tener cierto control y expandir la potencia del recurso y reglamentos.
 ![images](https://user-images.githubusercontent.com/87049768/125717382-6635224b-0d23-40bb-b182-520d68cf738c.jpg)
+
 IaaS. (Infrastructure as a Service ) El proveedor se encarga de rentar el hardware o infraestructura física.  
 PaaS. (Platform as a Service) El proveedor se encarga del Sistema Operativo, máquinas virtuales y recursos de red.  El usuario se encarga de sus aplicaciones como programar.
 SaaS (Software as a Service) El proveedor te brinda las apps y el usuario solo llena datos, ejemplos word.
